@@ -1,0 +1,4 @@
+
+kombu==4.5.0
+python-escpos==2.2.0
+viivakoodi==0.8.0
